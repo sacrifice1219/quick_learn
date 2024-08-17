@@ -565,7 +565,7 @@ function FeaturesBlocks() {
 
         <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <button onClick={() => setShow(!show)} 
-              className="  text-center justify-center items-center text-cool-gray-50  bg-blue px-4 py-2 rounded-sm"
+              className="  text-center justify-center border items-center text-cyan-50  bg-blue px-4 py-2 rounded-sm"
            > Explore All Courses</button>
           </div>
     
